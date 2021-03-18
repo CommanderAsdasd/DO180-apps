@@ -1,0 +1,12 @@
+
+
+OCAPI=$RHT_OCP4_MASTER_API
+OCPASS=$RHT_OCP4_DEV_PASSWORD
+OCUSER=$RHT_OCP4_DEV_USER
+RHT_OCP4_MASTER_API=https://api.eu45.prod.nextcle.com:6443
+RHT_OCP4_WILDCARD_DOMAIN=apps.eu45.prod.nextcle.com
+RHT_OCP4_NEXUS_SERVER=nexus-common.apps.eu45.prod.nextcle.com
+RHT_OCP4_DEV_USER=alexander-tankovskii-ibm-com
+RHT_OCP4_DEV_PASSWORD=d9715eefcc474dfdb1aa
+RHT_OCP4_GITHUB_USER=CommanderAsdasd
+RHT_OCP4_QUAY_USER=commanderasdasd
